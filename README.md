@@ -1,2 +1,0 @@
-# sample
-basic python program
